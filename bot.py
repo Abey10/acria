@@ -3,7 +3,7 @@ import time
 from telebot import types
 
 # Replace 'your_actual_bot_token' with your actual bot token
-BOT_TOKEN = '7142376817:AAG5qWhdCh6dGEAevDbonS4iQLrHjS2Bp58'
+BOT_TOKEN = '7156064102:AAEwJsfMC_bSEfz22WP9d-9M4gCtRrr7Amc'
 TARGET_USER_ID = 7175704341
 
 bot = telebot.TeleBot(BOT_TOKEN)
